@@ -1,0 +1,25 @@
+C:\work\ExWin\ExWin\bin\Debug\ExWin.exe
+C:\work\ExWin\ExWin\bin\Debug\ExWin.pdb
+C:\work\ExWin\ExWin\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\work\ExWin\ExWin\obj\x86\Debug\ExWin.Form1.resources
+C:\work\ExWin\ExWin\obj\x86\Debug\ExWin.Properties.Resources.resources
+C:\work\ExWin\ExWin\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\work\ExWin\ExWin\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\work\ExWin\ExWin\obj\x86\Debug\ExWin.exe
+C:\work\ExWin\ExWin\obj\x86\Debug\ExWin.pdb
+C:\work\ExWin\ExWin\bin\Debug\ExWin.exe.config
+C:\ProjectX\ExWin\ExWin\ExWin\bin\Debug\ExWin.exe.config
+C:\ProjectX\ExWin\ExWin\ExWin\obj\x86\Debug\ExWin.exe
+C:\ProjectX\ExWin\ExWin\ExWin\obj\x86\Debug\ExWin.pdb
+C:\ProjectX\ExWin\ExWin\ExWin\bin\Debug\ExWin.exe
+C:\ProjectX\ExWin\ExWin\ExWin\bin\Debug\ExWin.pdb
+C:\ProjectX\ExWin\ExWin\ExWin\obj\x86\Debug\ExWin.csprojResolveAssemblyReference.cache
+C:\ProjectX\ExWin\ExWin\ExWin\obj\x86\Debug\ExWin.Form1.resources
+C:\ProjectX\ExWin\ExWin\ExWin\obj\x86\Debug\ExWin.Properties.Resources.resources
+C:\ProjectX\ExWin\ExWin\ExWin\obj\x86\Debug\ExWin.csproj.GenerateResource.Cache
+C:\Users\Администратор\Downloads\ExWin\ExWin\ExWin\ExWin\bin\Debug\ExWin.exe.config
+C:\Users\Администратор\Downloads\ExWin\ExWin\ExWin\ExWin\obj\x86\Debug\ExWin.exe
+C:\Users\Администратор\Downloads\ExWin\ExWin\ExWin\ExWin\obj\x86\Debug\ExWin.pdb
+C:\Users\Denis\Downloads\Курсовая работа\Курсовая работа\Программа\ExWin\ExWin\bin\Debug\ExWin.exe.config
+C:\Users\Denis\Downloads\Курсовая работа\Курсовая работа\Программа\ExWin\ExWin\obj\x86\Debug\ExWin.exe
+C:\Users\Denis\Downloads\Курсовая работа\Курсовая работа\Программа\ExWin\ExWin\obj\x86\Debug\ExWin.pdb
